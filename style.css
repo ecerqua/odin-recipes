@@ -36,7 +36,7 @@ select {
     color: #ffffff;
     background-color: #757575;
     margin: 2px auto;
-    width: 300px;
+    width: 60%;
     border: 3px #000000;
     cursor: pointer;
 }
@@ -54,6 +54,8 @@ h2 {
 img {
     display: block;
     margin: 2px auto;
+    max-width: 100%;
+    height: auto;
 }
 
 .center-list {
