@@ -6,8 +6,9 @@
 
 body {
     color: #333;
-    text-align: center;
     background-color: #e9e1b6;
+    width: 70%;
+    margin: auto;
 }
 
 button,
@@ -18,6 +19,7 @@ select {
 }
 
 .page-ribbon {
+    text-align: center;
     background-color: rgb(180, 147, 82);
     color: #ffffff;
     padding: 15px;
@@ -41,4 +43,23 @@ select {
 .button:hover {
     background-color: #333;
     font-size: large;
+}
+
+h2 {
+    background-color: #b49352;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: 2px auto;
+}
+
+.center-list {
+    text-align: center;
+}
+
+.mid-box {
+    text-align: left;
+    display: inline-block;
 }
