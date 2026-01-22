@@ -7,7 +7,7 @@
 body {
     color: #333;
     text-align: center;
-    background-color: #ffffff;
+    background-color: #e9e1b6;
 }
 
 button,
@@ -18,7 +18,7 @@ select {
 }
 
 .page-ribbon {
-    background-color: purple;
+    background-color: rgb(180, 147, 82);
     color: #ffffff;
     padding: 15px;
     margin: 0px;
